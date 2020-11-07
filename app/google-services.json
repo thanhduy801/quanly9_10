@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1046032084129",
+    "firebase_url": "https://appquanli12.firebaseio.com",
+    "project_id": "appquanli12",
+    "storage_bucket": "appquanli12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046032084129:android:32c19a3ccc135d36df54e0",
+        "android_client_info": {
+          "package_name": "com.example.appquanli12"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046032084129-h0aepp0tfk01n1t2lh16rqmo2e6qspmq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw_ltT3-Eq3AJH7YXrW_kNf_Uvcn4d4JA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1046032084129-h0aepp0tfk01n1t2lh16rqmo2e6qspmq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

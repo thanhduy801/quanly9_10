@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">appquanli12</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_name_1">Danh sách phòng bàn</string>
+    <string name="title_name_2">Chọn món và đơn</string>
+    <string name="sign_in">Login</string>
+    <string name="register">Register</string>
+    <string name="username">Username: </string>
+    <string name="password">Password: </string>
+    <string name="email">Email: </string>
+    <string name="phone">Phone: </string>
+    <string name="signup">Sign up</string>
+    <string name="ten_nha_hang">Tên nhà hàng</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+</resources>
